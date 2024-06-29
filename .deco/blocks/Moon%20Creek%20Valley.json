@@ -24,6 +24,12 @@
     "success": "#A5B681"
   },
   "font": {
-    "__resolveType": "website/loaders/fonts/local.ts"
+    "__resolveType": "website/loaders/fonts/googleFonts.ts",
+    "fonts": [
+      {
+        "variations": [],
+        "family": "Playpen Sans"
+      }
+    ]
   }
 }
